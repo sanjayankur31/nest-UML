@@ -6,5 +6,6 @@ UML diagram for the `Nest <http://nest-simulator.org>`__ simulation tool - I use
 UML resources:
 
 - http://www.csci.csusb.edu/dick/samples/uml1b.html#Association
+- http://www.uml-diagrams.org/class-diagrams-overview.html
 
 CC by SA 4.0 unported international license.
